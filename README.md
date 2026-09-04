@@ -1,4 +1,4 @@
-# LX Buy & Sell — Peer-to-Peer Student Marketplace
+# LX Buy & Sell - Peer-to-Peer Student Marketplace
 
 A relational database project built on **MySQL InnoDB** modelling a peer-to-peer marketplace for NOVA IMS students to buy and sell second-hand items. Developed for the Storing and Retrieving Data course (MSc Data Science & Advanced Analytics).
 
